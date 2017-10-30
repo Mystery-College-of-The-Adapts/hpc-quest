@@ -1,6 +1,6 @@
 # hpc-quest
-My notes and source code as I learn about the world of High Performance Computing.
 
+This repo contains my work (notes and source code) as I learn about the world of High Performance Computing. All the C code base, are taken from, unless specified, [Peter Pacheco's Parallel and Distributed Computing course at University of San Francisco](http://www.cs.usfca.edu/~peter/cs625/).
 ## TODO
 
 - [ ] MPI Hello World Implementation
